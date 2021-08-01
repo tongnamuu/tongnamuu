@@ -8,4 +8,4 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tongnamuu)](https://solved.ac/tongnamuu/)
 
 
-(https://leetcode.com/tongnamuu/)
+LeetCode Profile : https://leetcode.com/tongnamuu/
