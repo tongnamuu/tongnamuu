@@ -6,6 +6,7 @@
 
 
 - BOJ Profile
+- ✍🏻 Blog : https://studyingprogramming.tistory.com/
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tongnamuu)](https://solved.ac/tongnamuu/)
 
