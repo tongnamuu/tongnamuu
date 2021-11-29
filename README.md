@@ -5,11 +5,11 @@
 - Contact : thban33@gmail.com
 
 
-
+- ✍🏻 Blog : https://studyingprogramming.tistory.com/
 
 - BOJ Profile
 
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tongnamuu)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tongnamuu)]
 
 
 - LeetCode Profile : https://leetcode.com/tongnamuu/
