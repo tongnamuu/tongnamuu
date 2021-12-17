@@ -5,7 +5,6 @@
 - Contact : thban33@gmail.com
 
 
-- ✍🏻 Blog : https://studyingprogramming.tistory.com/
 
 - BOJ Profile
 
