@@ -13,4 +13,4 @@
 
 - LeetCode Profile : https://leetcode.com/tongnamuu/
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b1c03045-859e-48de-9652-ab60b4f1f06a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+Deep Learning Specialization(https://www.credly.com/badges/b1c03045-859e-48de-9652-ab60b4f1f06a/public_url)
