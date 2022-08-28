@@ -13,4 +13,7 @@
 
 - LeetCode Profile : https://leetcode.com/tongnamuu/
 
+
+
+- lecture certificate
 [Deep Learning Specialization](https://www.credly.com/badges/b1c03045-859e-48de-9652-ab60b4f1f06a/public_url)
