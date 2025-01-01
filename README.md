@@ -19,5 +19,4 @@
 [Deep Learning Specialization](https://www.credly.com/badges/b1c03045-859e-48de-9652-ab60b4f1f06a/public_url)
 
 - GCP Associate Cloud Engineer Certification
-- ![image](https://github.com/user-attachments/assets/7bf56efe-37da-46f3-8464-7a1abd47d3c3)
-(https://www.credly.com/badges/813f8734-96a6-4826-bb6b-40d98320624c/public_url)
+[<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="813f8734-96a6-4826-bb6b-40d98320624c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>](https://www.credly.com/badges/813f8734-96a6-4826-bb6b-40d98320624c/public_url)
