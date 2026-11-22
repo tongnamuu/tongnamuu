@@ -5,13 +5,6 @@
 - interested in : ![Python](https://img.shields.io/badge/-Python-green) ![Java](https://img.shields.io/badge/-Java-orange) ![](https://img.shields.io/badge/-Algorithm-purple) ![](https://img.shields.io/badge/-Spring%20Boot-yellowgreen) ![](https://img.shields.io/badge/-MSA-lightgrey) 
 
 
-
-
-- BOJ Profile
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tongnamuu)](https://solved.ac/taehyeong1/)
-
-
 - LeetCode Profile : https://leetcode.com/tongnamuu/
 
 
